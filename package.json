@@ -1,0 +1,22 @@
+{
+  "name": "solonode",
+  "version": "1.0.0",
+  "description": "solokill backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "solotest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudyape/solokill.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Ankit Vashishta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudyape/solokill/issues"
+  },
+  "homepage": "https://github.com/cloudyape/solokill#readme"
+}
